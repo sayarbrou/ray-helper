@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Custom
+compile_commands.json
+.cache/
+build/
+bin/
+*.png
+*.ppm
